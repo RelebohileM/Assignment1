@@ -1,0 +1,25 @@
+.button {
+    -fx-background-color: #4CAF50; /* Green */
+    -fx-border: none;
+    -fx-color: white;
+    -fx-padding: 2px 2px;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.button:hover {
+    -fx-background-color: #45a049; /* Darker Green */
+}
+
+.exit-button {
+    -fx-background-color: #f44336; /* Red */
+}
+
+.exit-button:hover {
+    -fx-background-color: #d32f2f; /* Darker Red */
+}
+.image-view {
+    -fx-fit-width: 400; /* Adjust the width as needed */
+    -fx-fit-height: 600; /* Adjust the height as needed */
+}
+
